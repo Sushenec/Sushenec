@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sushenec
-- 👀 I’m interested in ...
+- 👀 I’m interested in playing League of Legends
+- 
 - 🌱 I’m currently learning programing mostly python and little bit of C#
 - 📫 How to reach me Discord - Sushenka#8207
 
